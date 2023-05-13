@@ -8,3 +8,5 @@ Includes the game executable not the code
 Do not distribute it
 
 © 2023 Bar Kozlovski
+
+![image](https://github.com/kozoB/NightMare/assets/101797157/d06360b6-1020-48b5-99c1-6eb4e0ddff02)
